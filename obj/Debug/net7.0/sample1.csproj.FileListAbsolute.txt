@@ -1,0 +1,15 @@
+/home/claire/sample1/bin/Debug/net7.0/sample1
+/home/claire/sample1/bin/Debug/net7.0/sample1.deps.json
+/home/claire/sample1/bin/Debug/net7.0/sample1.runtimeconfig.json
+/home/claire/sample1/bin/Debug/net7.0/sample1.dll
+/home/claire/sample1/bin/Debug/net7.0/sample1.pdb
+/home/claire/sample1/obj/Debug/net7.0/sample1.csproj.AssemblyReference.cache
+/home/claire/sample1/obj/Debug/net7.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/home/claire/sample1/obj/Debug/net7.0/sample1.AssemblyInfoInputs.cache
+/home/claire/sample1/obj/Debug/net7.0/sample1.AssemblyInfo.cs
+/home/claire/sample1/obj/Debug/net7.0/sample1.csproj.CoreCompileInputs.cache
+/home/claire/sample1/obj/Debug/net7.0/sample1.dll
+/home/claire/sample1/obj/Debug/net7.0/refint/sample1.dll
+/home/claire/sample1/obj/Debug/net7.0/sample1.pdb
+/home/claire/sample1/obj/Debug/net7.0/sample1.genruntimeconfig.cache
+/home/claire/sample1/obj/Debug/net7.0/ref/sample1.dll
